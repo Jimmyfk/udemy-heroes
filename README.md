@@ -18,9 +18,9 @@ Un **gran poder** requiere _una_ gran *responsabilidad*
 1. Item
 2. Item
 3. Item
-  * SubItem
-  * SubItem
-  * SubItem
+ * SubItem
+ * SubItem
+ * SubItem
   
   ![random image](https://media1.tenor.com/images/5c406b927ec59a31eb67e3366f3121ef/tenor.gif?itemid=11909469)
   [Ver imagen](https://media1.tenor.com/images/5c406b927ec59a31eb67e3366f3121ef/tenor.gif?itemid=11909469)
